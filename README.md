@@ -1,6 +1,6 @@
 Judul = Aplikasi informasi para raja di dunia
 
-Penjelasan Projeck = Aplikasi ini bertujuan untuk memberikan informasi tentang raja-raja terkenal di dunia. Pengguna dapat menjelajahi profil raja, melihat prestasi mereka, dan memahami sejarah pemerintahan mereka. Aplikasi ini cocok untuk pelajar, peneliti, atau siapa saja yang tertarik dengan sejarah dan budaya.
+Penjelasan Projek = Aplikasi ini bertujuan untuk memberikan informasi tentang raja-raja terkenal di dunia. Pengguna dapat menjelajahi profil raja, melihat prestasi mereka, dan memahami sejarah pemerintahan mereka. Aplikasi ini cocok untuk pelajar, peneliti, atau siapa saja yang tertarik dengan sejarah dan budaya.
 
 Figma: https://www.figma.com/design/HLvBnzVIKO4ANdnVYIVTQK/Design-Mobile-King?node-id=0-1&t=t73h6pSn5QxWAogF-1
 
