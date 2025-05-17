@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DetailRajaActivity"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageViewDetailRaja"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_launcher_foreground"
+            android:contentDescription="Foto Raja"
+            android:layout_marginTop="24dp"
+            android:layout_marginBottom="16dp" />
+
+        <TextView
+            android:id="@+id/textViewNamaDetailRaja"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nama Raja"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:id="@+id/textViewReignDetailRaja"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Reign: "
+            android:textSize="16sp"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:id="@+id/textViewNicknameDetailRaja"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nickname: "
+            android:textSize="16sp"
+            android:layout_marginBottom="16dp" />
+
+        <TextView
+            android:id="@+id/textViewKeyEventsDetailRaja"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Peristiwa Penting:"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:id="@+id/textViewKeyEventsContentDetailRaja"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Key Events Content"
+            android:textSize="16sp"
+            android:layout_marginBottom="16dp" />
+
+        <TextView
+            android:id="@+id/textViewLegacyDetailRaja"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Warisan:"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:id="@+id/textViewLegacyContentDetailRaja"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Legacy Content"
+            android:textSize="16sp"
+            android:layout_marginBottom="16dp" />
+
+        <Button
+            android:id="@+id/buttonKembaliDetail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Kembali"
+            style="@style/buttonMasuk"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="24dp"/>
+
+    </LinearLayout>
+</ScrollView>
