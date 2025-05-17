@@ -95,7 +95,7 @@ dan akan secara dinamis berubah data view nya berdasarkan raja yang dipilih. dat
 
 ![image](https://github.com/user-attachments/assets/446dbe98-a3c7-4fe4-8d44-578a761051fc)
 
-untuk file java yang dipakai yaitu ,diisini ada fungsi intent untuk pergi kehalaman sebelumnya, dan fungsi setDetail raja yang dimana akan disesuaikan berdasarkan nama raja untuk datanya. gambar yang dipakai itu dari drawable
+untuk file java yang dipakai yaitu DetailRajaActivity ,diisini ada fungsi intent untuk pergi kehalaman sebelumnya, dan fungsi setDetail raja yang dimana akan disesuaikan berdasarkan nama raja untuk datanya. gambar yang dipakai itu dari drawable
 
 ![image](https://github.com/user-attachments/assets/f281e85e-4154-45c7-bc49-4ed0049c2f13)
 
