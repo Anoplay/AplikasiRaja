@@ -6,7 +6,7 @@ Figma: https://www.figma.com/design/HLvBnzVIKO4ANdnVYIVTQK/Design-Mobile-King?no
 
 
 logo aplikasi:
-aplikasi ini beranama apps for king dengan logo crown abu abu
+aplikasi ini bernama apps for king dengan logo crown abu abu
 
 ![image](https://github.com/user-attachments/assets/d7212997-8415-4ec2-9add-2f688ab69d19)
 ![image](https://github.com/user-attachments/assets/72901f9a-3f0d-4a54-a498-e5ce5f25a76f)
